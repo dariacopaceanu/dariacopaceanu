@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 I am a first-year student passionate about continuous learning and personal growth. I believe there is something new to discover every day, and I enjoy challenging myself through hands-on projects and collaboration. I actively contribute to open-source and team projects because I learn best by doing and sharing knowledge. My goal is to keep growing my skills so I can one day pass them on by teaching and inspiring children.
 
 
-🌱 I’m currently learning Machine Learning and networking.
+🌱 I’m currently learning Machine Learning and networking.  
+
 ⚡ Fun fact: I believe that everything happens for a reason and nothing is random 🌌
 
 
