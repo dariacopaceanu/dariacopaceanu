@@ -19,7 +19,7 @@ I am a first-year student passionate about continuous learning and personal grow
 
 🌱 I’m currently learning Machine Learning and networking.  
 
-⚡ Fun fact: I believe that everything happens for a reason and nothing is random 🌌
+⚡ Fun fact: I believe that everything happens for a reason and nothing is truly random 🌌
 
 
 
